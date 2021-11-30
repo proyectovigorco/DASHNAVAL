@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DASHNAVAL/static/css/main.2d6fd6cf.chunk.css",
+    "main.js": "/DASHNAVAL/static/js/main.b4a5e841.chunk.js",
+    "main.js.map": "/DASHNAVAL/static/js/main.b4a5e841.chunk.js.map",
+    "runtime-main.js": "/DASHNAVAL/static/js/runtime-main.1424c379.js",
+    "runtime-main.js.map": "/DASHNAVAL/static/js/runtime-main.1424c379.js.map",
+    "static/js/2.04f693b2.chunk.js": "/DASHNAVAL/static/js/2.04f693b2.chunk.js",
+    "static/js/2.04f693b2.chunk.js.map": "/DASHNAVAL/static/js/2.04f693b2.chunk.js.map",
+    "index.html": "/DASHNAVAL/index.html",
+    "static/css/main.2d6fd6cf.chunk.css.map": "/DASHNAVAL/static/css/main.2d6fd6cf.chunk.css.map",
+    "static/js/2.04f693b2.chunk.js.LICENSE.txt": "/DASHNAVAL/static/js/2.04f693b2.chunk.js.LICENSE.txt",
+    "static/media/arrow-right.669ffbe1.svg": "/DASHNAVAL/static/media/arrow-right.669ffbe1.svg",
+    "static/media/bar-chart-line-fill.5a41b6ec.svg": "/DASHNAVAL/static/media/bar-chart-line-fill.5a41b6ec.svg",
+    "static/media/delete.9137dae7.svg": "/DASHNAVAL/static/media/delete.9137dae7.svg",
+    "static/media/exclamation.7efd0ac0.svg": "/DASHNAVAL/static/media/exclamation.7efd0ac0.svg",
+    "static/media/lock.6f1d76c8.svg": "/DASHNAVAL/static/media/lock.6f1d76c8.svg",
+    "static/media/menu-icon.9dbc5a3a.svg": "/DASHNAVAL/static/media/menu-icon.9dbc5a3a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1424c379.js",
+    "static/js/2.04f693b2.chunk.js",
+    "static/css/main.2d6fd6cf.chunk.css",
+    "static/js/main.b4a5e841.chunk.js"
+  ]
+}
