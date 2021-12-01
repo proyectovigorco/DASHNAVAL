@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DASHNAVAL/static/css/main.2d6fd6cf.chunk.css",
-    "main.js": "/DASHNAVAL/static/js/main.b4a5e841.chunk.js",
-    "main.js.map": "/DASHNAVAL/static/js/main.b4a5e841.chunk.js.map",
+    "main.js": "/DASHNAVAL/static/js/main.eeaf5e04.chunk.js",
+    "main.js.map": "/DASHNAVAL/static/js/main.eeaf5e04.chunk.js.map",
     "runtime-main.js": "/DASHNAVAL/static/js/runtime-main.1424c379.js",
     "runtime-main.js.map": "/DASHNAVAL/static/js/runtime-main.1424c379.js.map",
     "static/js/2.04f693b2.chunk.js": "/DASHNAVAL/static/js/2.04f693b2.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.1424c379.js",
     "static/js/2.04f693b2.chunk.js",
     "static/css/main.2d6fd6cf.chunk.css",
-    "static/js/main.b4a5e841.chunk.js"
+    "static/js/main.eeaf5e04.chunk.js"
   ]
 }
